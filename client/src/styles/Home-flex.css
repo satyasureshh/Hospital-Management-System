@@ -1,0 +1,84 @@
+.flex-4{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+    grid-auto-rows: minmax(2px, auto); 
+    gap: 10px;
+    align-items: center;
+    padding: 10px;
+    padding-top: 20px;
+    margin-bottom: 15px;
+    padding-left: 150px;
+}
+
+.dbf4-roles-card{
+    height: 100px;
+    width: 270px;
+    background-color: transparent;
+    border: 1px solid rgb(90, 90, 90);
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.dbf4-role-img{
+    justify-content: center;
+    height: 65px;
+    width: 65px;
+    background: transparent; 
+    border-radius: 10px;
+    margin-top: 18px;
+    margin-left: 15px;
+}
+
+.dbf4-role-img img{
+    height: 40px;
+    width: 40px;
+    margin-top: 12px;
+    margin-left: 12px;
+}
+
+.dbf4-role-details{
+    background: transparent;
+    height: 70px;
+    width: 160px;
+    margin-top: 15px;
+    margin-left: 10px;
+    
+}
+
+.dbf4-name-txt{
+    color: black;
+    font-size: medium;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-left: 10px;
+    padding-top: 20px;
+}
+
+
+.dbf4-role-name{
+    margin-top: 5px;
+}
+
+
+
+.dbf4-pos-cnt{
+    margin-top: 10px;
+}
+
+.dbf4-pos-txt, .dbf4-pos-txt2{
+    color: rgb(102, 102, 102);
+    font-size: medium;
+    margin-top: 15px;
+    padding-top: 15px;
+    
+}
+
+.dbf4-pos-txt{
+    margin-left: 10px;
+}
+
+.dbf4-pos-txt2{
+    padding-left: 3px;
+}

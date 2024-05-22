@@ -1,0 +1,60 @@
+/* styles.css */
+.background-img {
+    background-image: url('../assets/hospital-blur2.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.welcome-message{
+    padding-left: 500px;
+    
+}
+
+
+.about{
+    margin-top: 20px;
+}
+
+.img-1 img{
+    height: 250px;
+    width: 350px;
+    border-radius: 15px;
+    float: left;
+    margin-right: 10px;
+    margin-left: 15px;
+}
+  
+.img-2 img{
+    height: 250px;
+    width: 350px;
+    border-radius: 15px;
+    float: right;
+    margin-right: 15px;
+}
+
+.img-3 img{
+    height: 250px;
+    width: 360px;
+    border-radius: 15px;
+    float: left;
+    margin-right: 15px;
+}
+
+.img-1,
+.img-2 {
+  flex: 0 0 auto;
+}
+
+
+
+.footer{
+    clear: both;
+}
+
+p{
+    font-size: larger;
+    margin-left: 20px;
+    margin-right: 20px;
+}
