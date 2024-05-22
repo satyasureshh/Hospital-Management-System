@@ -3,9 +3,7 @@
 Software Description:
 
 Front-end:
-JavaScript,
- React,
-CSS.
+React.js, JavaScript, CSS.
 
 Backend:
 Express.js
