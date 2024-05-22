@@ -3,9 +3,9 @@
 Software Description:
 
 Front-end:
-JavaScript
-React
-CSS
+JavaScript,
+ React,
+CSS.
 
 Backend:
 Express.js
@@ -19,6 +19,10 @@ MongoDB
 Cloud Platform:
 Google Cloud Platform (GCP)
 deployment: Kubernetes
+
+
+
+About:
 
 -> This is a Scalable Hospital Management System in the Cloud using Kubernetes. 
 
