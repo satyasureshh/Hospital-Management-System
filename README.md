@@ -20,8 +20,8 @@ Software Description:
 
 9. Cloud Platform:
    
-    Google Cloud Platform (GCP)
-    deployment: Kubernetes
+    Google Cloud Platform (GCP),
+     deployment: Kubernetes
 
 
 
