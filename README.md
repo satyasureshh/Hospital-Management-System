@@ -4,24 +4,24 @@ Software Description:
 
 1. Front-end:
 
-React.js, JavaScript, CSS.
+    React.js, JavaScript, CSS.
 
 3. Backend:
 
-Express.js
+    Express.js
 
 5. Server:
 
-Node.js
+    Node.js
 
 7. Database and Storage:
 
-MongoDB
+    MongoDB
 
 9. Cloud Platform:
    
-Google Cloud Platform (GCP)
-deployment: Kubernetes
+    Google Cloud Platform (GCP)
+    deployment: Kubernetes
 
 
 
